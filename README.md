@@ -25,6 +25,9 @@ CPU散热器 | 九州风神 玄冰400 | 69 | 原本我是不想配置的(那台w
 无线网卡 | 无 | | 还是因为windows那台机器配置了无线网卡，有线就给这台机器用了，所以没有配无线网卡
 总价 | | 6091
 
+### 安装过程
+[安装盘制作过程](https://github.com/bxxfighting/OpenCore-B/blob/master/%E5%AE%89%E8%A3%85%E7%9B%98%E5%88%B6%E4%BD%9C%E8%BF%87%E7%A8%8B.md)
+
 ### 历史经验
 
 在这之前只装过一次AMD CPU的黑苹果，那个配置买前没有做好功课，买了AMD的CPU、NVIDIA GTX1060，装着真是悲催.  
