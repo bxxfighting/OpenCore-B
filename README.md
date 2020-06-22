@@ -32,6 +32,9 @@ CPU散热器 | 九州风神 玄冰400 | 69 | 原本我是不想配置的(那台w
 ### 最终EFI
 [EFI](https://github.com/bxxfighting/OpenCore-B/tree/master/EFI)  
 
+### 测试跑分(娱乐)
+[geekbench](https://github.com/bxxfighting/OpenCore-B/tree/master/geekbench)
+
 ### 历史经验
 
 在这之前只装过一次AMD CPU的黑苹果，那个配置买前没有做好功课，买了AMD的CPU、NVIDIA GTX1060，装着真是悲催.  
