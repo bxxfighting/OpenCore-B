@@ -33,3 +33,4 @@ CPU散热器 | 九州风神 玄冰400 | 69 | 原本我是不想配置的(那台w
 
 ### 主要参考资料
 [OpenCore Desktop Guide](https://dortania.github.io/OpenCore-Desktop-Guide/)  
+[使用OpenCore引导黑苹果](https://blog.xjn819.com/?p=543)  
