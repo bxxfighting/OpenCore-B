@@ -42,5 +42,5 @@ CPU散热器 | 九州风神 玄冰400 | 69 | 原本我是不想配置的(那台w
 所以其实相当于没有啥经验，在网上大概看了一下，看到有人说OpenCore现在要取代Clover，二话不说，就用它了.  
 
 ### 主要参考资料
-第一教程: [OpenCore Desktop Guide](https://dortania.github.io/OpenCore-Desktop-Guide/)  
+第一教程: [OpenCore Desktop Guide](https://dortania.github.io/OpenCore-Install-Guide/)  
 第二教程: [使用OpenCore引导黑苹果](https://blog.xjn819.com/?p=543)  
